@@ -1,5 +1,7 @@
 # MCP Weather Server
 
+[![smithery badge](https://smithery.ai/badge/@iremaltunay55/mcp-weather)](https://smithery.ai/server/@iremaltunay55/mcp-weather)
+
 A simple MCP server that provides hourly weather forecasts using the AccuWeather API.
 
 ## Setup
